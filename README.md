@@ -13,7 +13,7 @@ Example plots depict the evolution of age group population shares in selected co
 
 ## Preview plot of the entire shares-triangle
 
-The preview plot that shows the entire probability triangle. This can be useful for deciding on how to customize the shares-triangle plot.
+The preview plot that shows the location of all data points inside the complete probability triangle. This can be useful for deciding on how to customize the shares-triangle plot.
 
 <p align="center">
 <img align="center" src="https://github.com/tervio/shares-triangle/blob/main/graphs/test_full.svg?raw=true">
