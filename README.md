@@ -22,7 +22,7 @@ The preview plot that shows the location of all data points inside the complete 
 
 ## Customized shares-triangle plot
 
-In this shares-triangle plot some of the graph options were selected at the SharesTriangle_Maker.nb partly based on the look of the above preview plot.  
+In this shares-triangle plot some of the graph options were selected at the SharesTriangle_Maker.nb partly based on the look of the above preview plot. 
 Values that result in a useful graph depend on the data, e.g., how densely the plotted points are packed inside the triangle. 
 
 ![Custom shares-triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.svg?raw=true)
