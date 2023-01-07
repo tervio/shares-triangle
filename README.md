@@ -16,8 +16,4 @@ Values that result in a useful graph depend on the data, e.g., how densely the p
 
 Below is the preview plot that shows the entire probability triangle for the same data. This can be useful for deciding on how to customize the shares-triangle plot.
 
-![shares-triangle big picture](https://github.com/tervio/shares-triangle/blob/main/graphs/test_full.svg?raw=true)
-
-Blah
-
-<img align="right" src="https://github.com/tervio/shares-triangle/blob/main/graphs/test_full.svg?raw=true">
+<img align="center" src="https://github.com/tervio/shares-triangle/blob/main/graphs/test_full.svg?raw=true">
