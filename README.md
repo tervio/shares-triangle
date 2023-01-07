@@ -8,12 +8,12 @@ The age classification into (children, working age, elderdly) at (0-14, 15-64, 6
 
 # Example output
 
-Shares triangle plot, showing the evolution of age group population shares since 1960. 
+Below is the shares-triangle plot depicting the evolution of age group population shares in selected countries.  
 Some of the graph options are selected at the SharesTriangle_Maker.nb. 
-Values that result in a useful graph depend on the data, e.g., how densely the plotted points are packed inside the triangle.
+Values that result in a useful graph depend on the data, e.g., how densely the plotted points are packed inside the triangle. 
 
-![Custom shares triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.svg?raw=true)
+![Custom shares-triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.svg?raw=true)
 
-Below is a preview plot that shows the entire probability triangle. This is useful for deciding on the options.
+Below is the preview plot that shows the entire probability triangle for the same data. This can be useful for deciding on how to customize the shares-triangle plot.
 
-![Custom shares triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.png?raw=true)
+![shares-triangle big picture](https://github.com/tervio/shares-triangle/blob/main/graphs/test_preview.svg?raw=true)
