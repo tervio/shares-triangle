@@ -3,13 +3,14 @@ This triangle is also known as *the probability triangle*, used to depict mixed 
 
 Example graphs can be reconstructed by evaluating the notebook SharesTriangle_Maker.nb
 
-Example data (csv/) retrieved from WorldBank on 2023-01-06, using handpicked API calls here: 
+Example data (csv/) retrieved from the World Bank on 2023-01-06, using handpicked API calls here: 
 https://data.worldbank.org/indicator/SP.POP.65UP.TO  
 The classification into {children, working age, elderdly} at age ranges {0-14, 15-64, 65-} is a bit loopy but follows a long tradition across statisical agencies.
 
 # Example output
 
-Example plots depict the evolution of age group population shares in selected countries.  
+Example plots depict the evolution of age group population shares in selected countries. 
+Data from the World Bank (CC BY-4.0).
 
 ## Preview plot of the entire shares-triangle
 
