@@ -5,7 +5,7 @@ Example graphs can be reconstructed by evaluating the notebook SharesTriangle_Ma
 
 Example data (csv/) retrieved from the World Bank on 2023-01-06, using handpicked API calls here: 
 https://data.worldbank.org/indicator/SP.POP.65UP.TO  
-The classification into {children, working age, elderdly} at age ranges {0-14, 15-64, 65-} is a bit loopy but follows a long tradition across statisical agencies.
+The classification into {children, working age, elderdly} at age ranges {0-14, 15-64, 65-} is a bit loopy but follows a long tradition across statistical agencies.
 
 # Example output
 
