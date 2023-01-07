@@ -14,7 +14,7 @@ Data from the World Bank (CC BY-4.0).
 
 ## Preview plot of the entire shares-triangle
 
-The preview plot that shows the location of all data points inside the complete probability triangle. This can be useful for deciding on how to customize the shares-triangle plot.
+The preview plot that shows the location of all data points inside the complete shres triangle. This can be useful for deciding on how to customize the shares-triangle plot.
 
 <p align="center">
 <img align="center" src="https://github.com/tervio/shares-triangle/blob/main/graphs/test_full.svg?raw=true">
@@ -23,6 +23,6 @@ The preview plot that shows the location of all data points inside the complete 
 ## Customized shares-triangle plot
 
 In this shares-triangle plot some of the graph options were selected at the SharesTriangle_Maker.nb partly based on the look of the above preview plot. 
-Values that result in a useful graph depend on the data, e.g., how densely the plotted points are packed inside the triangle. 
+Option values that result in a useful graph depend on the data, for example how densely the plotted points are packed inside the triangle. 
 
 ![Custom shares-triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.svg?raw=true)
