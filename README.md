@@ -9,4 +9,4 @@ Data fetched on 2023-01-06.
 
 # Example output
 
-![Custom shares triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.png?raw=true)
+![Custom shares triangle plot](https://github.com/tervio/shares-triangle/blob/main/graphs/test.svg?raw=true)
